@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  description: The preview of the Azimuth themes
   extra:
     - name: 'og:type'
       value: website
